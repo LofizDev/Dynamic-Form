@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import background from '../assets/background.png';
-;
+
 
 const Login: React.FC = () => {
     const navigate = useNavigate();
